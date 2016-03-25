@@ -10,8 +10,13 @@ npm run dev
 ```
 
 To start the backend, you requested to have running MongoDb process.
-
 ```javascript
 mongod
+```
+
+To start the backend project run the following commands from backend folder.
+
+```javascript
+npm install
 npm start
 ```
